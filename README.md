@@ -1,2 +1,2 @@
 # Rivals-Companion
-Query player stats for Marvel Rivals
+Query Marvel Rivals player stats
